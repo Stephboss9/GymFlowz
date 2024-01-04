@@ -4,9 +4,6 @@ Created: January 2, 2024 12:40 AM
 
 Web App Features:
 
-ChatGPT’s Recommendations: 
-
-[ChatGPT’s recommendations](https://www.notion.so/ChatGPT-s-recommendations-b0ee7b808639407281d5a52231d587f0?pvs=21)
 
 ### Main/Basic Features for the app:
 
