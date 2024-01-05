@@ -1,6 +1,6 @@
 # GymBro
 
-# [Figma](https://www.figma.com/file/tP9nC5a0Nexge9TKUJFty0/GymFlowz?type=design&node-id=9%3A40&mode=design&t=8VMzeIQOzeazO3q7-1)
+### [Figma](https://www.figma.com/file/tP9nC5a0Nexge9TKUJFty0/GymFlowz?type=design&node-id=9%3A40&mode=design&t=8VMzeIQOzeazO3q7-1)
 
 ## Web App Features:
 
